@@ -3,7 +3,7 @@
 A collection of AES Keys and GUIDs for Fortnite PAKs.
 ___
 
-### [Latest Key](https://github.com/egator6/fortnite-aes-archive/blob/main/README.md#chapter-4-season-4)
+### Latest Key
 
 | Version |                                Key                                 |
 |:-------:|:------------------------------------------------------------------:|
