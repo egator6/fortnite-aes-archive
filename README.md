@@ -9,6 +9,8 @@ ___
 |:-------:|:------------------------------------------------------------------:|
 |  26.00  | 0xA97CAD008AB57725B8AC6838EA5E8432E9CC888A6E5D739671ABFA3DA8C97D94 |
 
+## [Aes Key Archive](https://github.com/egator6/fortnite-aes-archive/blob/main/archive.md)
+
 
 ___
 
